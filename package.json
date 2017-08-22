@@ -34,7 +34,7 @@
     "cross-env": "^3.1.4",
     "elm": "^0.18.0",
     "elm-doc-test": "^4.0.0",
-    "elm-test": "^0.18.7",
+    "elm-test": "0.18.7",
     "elm-webpack-loader": "^4.3.1",
     "eslint": "^3.19.0",
     "eslint-config-airbnb": "^15.0.2",
@@ -45,15 +45,15 @@
     "mocha": "^3.4.2",
     "ps-list": "^4.0.0",
     "rc": "^1.1.6",
-    "serverless": "^1.17.0",
-    "serverless-offline": "^3.15.1",
-    "serverless-webpack": "2.0.0",
+    "serverless": "^1.19.0",
+    "serverless-offline": "^3.15.3",
+    "serverless-webpack": "github:elastic-coders/serverless-webpack#set-location-option-automatically",
     "shebang-loader": "0.0.1",
     "should": "^11.2.1",
     "sinon": "^2.3.8",
     "strip-debug-loader": "^1.0.0",
     "superagent-defaults": "^0.1.14",
     "supertest": "^3.0.0",
-    "webpack": "^3.3.0"
+    "webpack": "^3.5.4"
   }
 }
